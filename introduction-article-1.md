@@ -4,7 +4,7 @@ title: Introduction by Bobbi Dykema
 nav_order: 2
 excerpt: An introduction explaining annotation methods and goals.
 ---
-
+<div class="container text-left"> 
 <p>
 Whether or not Martin Luther actually nailed his ninety-five theses to the door of the Wittenberg Schloβkirche in 1517, his theology of justification broke the mold of the medieval Catholic penitential system, in which cracks and fissures had been developing for some time.<sup>1</sup>  For Luther, devotional praxis needed always to direct the worshipper toward the experience of Christ and an encounter with God;  thus, his formulation vastly simplified the medieval religious complexities of the cult of the saints, monastic orders, rituals and sacramentals.  For a church whose devotional practices, piety, and in some ways theology itself had been overwhelmingly image-based, this new devotion to the Word necessitated a sea change in visual culture. Fortunately for Luther, a powerful imagemaker devoted to his cause was able to bridge the gap, one who combined medieval conventions of devotional imagery with polemical images of the Pope to create a visual theology that complemented Luther’s verbal theology. That artist was Lucas Cranach the Elder, and his pivotal work of Reformation propaganda was a pamphlet entitled Passional Christi und Antichristi.
 <h2>Passional Christi und Antichristi</h2>
@@ -51,4 +51,4 @@ It is to be hoped that this edition will further illuminate the understanding of
 
 [^1]: Berndt Hamm, “What Was the Reformation Doctrine of Justification?” in C. Scott Dixon, ed., The German Reformation: The Essential Readings (Oxford: Blackwell Publishers, 1999), 82. 
 </p>
-
+</div>
