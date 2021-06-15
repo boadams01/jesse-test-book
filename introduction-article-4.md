@@ -1,3 +1,10 @@
+---
+layout: page
+title: Introduction by Ulrich Bubenheimer (German)
+nav_order: 2
+excerpt: An introduction explaining annotation methods and goals.
+---
+
 Das *Passional Christi und Antichristi* und die *Antithesis figurata
 vitae Christi et Antichristi*[^1]
 
