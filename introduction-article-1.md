@@ -51,6 +51,121 @@ As Joseph Leo Koerner has argued, “To vilify something it is necessary to exhi
 This digitized edition allows the reader to access a variety of information about Passional Christi und Antichristi while looking at an actual copy of the Erfurt version in digitized form. English translations have been provided for the text, as well as commentary on the images by art historian Larry Silver. Martin Lohrmann has contributed analysis of the biblical and theological components of Passional. And the specific copy in the possession of the Pitts Theological Library includes handwritten marginalia, which is deciphered and discussed here by Ulrich Bubenheimer. 
 It is to be hoped that this edition will further illuminate the understanding of anti-papist polemical literature in the early years of the Lutheran Reformation, and its influence on the relationships of the laity to the evangelical movement. Such literature by its very volume played a vastly important role in the spread of evangelical ideas both positive, in the form of teaching about the faith, and negative, in the form of polemical works such as Passional. 
 
+  
+
+[1](#sdfootnote1anc) Berndt Hamm, &quot;What Was the Reformation Doctrine of Justification?&quot; in C. Scott Dixon, ed., _The German Reformation: The Essential Readings_ (Oxford: Blackwell Publishers, 1999), 82.
+
+[2](#sdfootnote2anc) Ursula Stock, _Die Bedeutung der Sakramente in Luthers Sermonen von 1519_ (Leiden: Brill, 1982), 111ff.
+
+[3](#sdfootnote3anc) While the Word of God received new emphasis in evangelical reform of the liturgy, Luther and other evangelical preachers also urged more frequent reception of communion than the typical 1-4 times annually of most laypersons, as well as greater confidence in the receiver&#39;s preparation to receive the sacrament. Cf. Jürgen Diestelmann, _Usus und Actio: Das Heilige Abendmahl bei Luther und Melanchthon_ (Berlin: Pro Business Verlag, 2007), 14-18.
+
+[4](#sdfootnote4anc) Richard S. Field, &quot;Early Woodcuts: The Known and the Unknown,&quot; in Peter Parshall and Rainer Schoch, eds., _Origins of European Print-Making: Fifteenth-Century Woodcuts and Their Public_ (Washington, DC: National Gallery of Art, 2005), 21.
+
+[5](#sdfootnote5anc) A. Hyatt Mayor, _Prints &amp; People: A Social History of Printed Pictures_ (New York: The Metropolitan Museum of Art, 1971), 11.
+
+[6](#sdfootnote6anc) E.g. Ralph E. Shikes, _The Indignant Eye: The Artist as Social Critic in Prints and Drawings from the Fifteenth Century to Picasso_ (Boston: Beacon Press, 1969), 15.
+
+[7](#sdfootnote7anc) Luther, &quot;Letter to Philip Melanchthon: Wartburg, May 26, 1521,&quot; _D. Martin Luthers Werke, Briefwechsel_, vol 2 (Weimar: H. Bohlau, 1933), 347.
+
+[8](#sdfootnote8anc) Luther, &quot;Letter to Georg Spalatin: Frankfurt/Main, April 14, 1521,&quot; _D. Martin Luthers Werke, Briefwechsel_, vol 2 (Weimar: H. Bohlau, 1933), 298.
+
+[9](#sdfootnote9anc) Joshua 24:15.
+
+[10](#sdfootnote10anc) Joachim, _Expositio in Apocalypsim_ (Frankfurt a.M.: Minerva, 1964), 168.
+
+[11](#sdfootnote11anc) Wyclif is mentioned as a predecessor in the concept of the papal Antichrist in the footnotes to the text of &quot;A Sincere Admonition to All Christians&quot; in the St. Louis edition, but Luther does not mention Wyclif directly. Jaroslav Pelikan et al., eds., _Luther&#39;s Works_ v. 45 (St. Louis: Concordia Publishing House, 1962), 60.
+
+[12](#sdfootnote12anc) John Wyclif, _De Christo et suo Adversario Antichristo_, in Rudolf Buddensieg, ed., _John Wiclif&#39;s Polemical Works in Latin_, vol. II (London: Trübner &amp; Co., 1883), 680-691.
+
+[13](#sdfootnote13anc) Timothy George, &quot;The Reformation Connection: _Hus_ Shared Ideas with Wyclif and
+
+Luther, Yet They Were Not All of One Mind,&quot; _Christian History_ v. 19 no. 14 (2000), 35-38.
+
+[14](#sdfootnote14anc) Bernard McGinn, _Antichrist: Two Thousand Years of the Human Fascination with Evil_ (New York: Columbia University Press, 2000), 183.
+
+[15](#sdfootnote15anc) Marjorie Reeves, _The Influence of Prophecy in the Later Middle Ages: A Study in Joachimism_ (Oxford: Clarendon Press, 1969), 62 n.2.
+
+[16](#sdfootnote16anc) František Šmahel, _Die Hussitische Revolution_, v. I, trans Thomas Krzenck, ed. Alexander Patschovsky (Hannover: Hahnsche Buchhandlung, 2002), 491-492.
+
+[17](#sdfootnote17anc) Šmahel, v. II, 866.
+
+[18](#sdfootnote18anc) McGinn, 185.
+
+[19](#sdfootnote19anc) Howard Kaminsky, et al., eds. _Master Nicholas of Dresden, The Old Color and the New: Selected Works Contrasting the Primitive Church and the Roman Church_ (Philadelphia: The American Philosophical Society, 1965), 6.
+
+[20](#sdfootnote20anc) Kaminsky, 34-36.
+
+[21](#sdfootnote21anc) George, 35.
+
+[22](#sdfootnote22anc) Guy Fitch Lytle, &quot;John Wyclif, Martin Luther and Edward Powell: Heresy and the Oxford Theology Faculty at the Beginning of the Reformation,&quot; in _From Ockham to Wyclif_, ed. Anne Hudson and Michael Wilks (New York: Basil Blackwell Inc., 1987), 466.
+
+[23](#sdfootnote23anc) R.W. Scribner, _For the Sake of Simple Folk: Popular Propaganda for the German Reformation_ (Oxford: Clarendon Press, 1981), 1; Mark U. Edwards, _Printing, Propaganda, and Martin Luther_ (Berkeley: University of California Press, 1994), 1-2.
+
+[24](#sdfootnote24anc) Franz Lau and Ernst Bizer, &quot;Reformationsgeschichte bis 1532,&quot; in _Reformationsgeschichte Deutschlands bis 1555_ (Göttingen: Vandenhoeck &amp; Ruprecht, 1964), 32-33. Quoted in Susan C. Karant-Nunn, &quot;What Was Preached in German Cities in the Early Years of the Reformation? _Wildwuchs_ versus Lutheran Unity,&quot; in Phillip N. Bebb and Sherrin Marshall, eds., _The Process of Change in Early Modern Europe: Essays in Honor of Miriam Usher Chrisman_ (Athens, OH: Ohio University Press, 1988), 82. Scholars disagree as to how unified &quot;Lutheran&quot; teaching may have been in the early years of the movement; see also Bernd Moeller and Karl Stackmann, _Städtische Predigt in der Frühzeit der Reformation: Eine Untersuchung deutscher Flugschriften der Jahre 1522 bis 1529_ (Göttingen: Vandenhoeck &amp; Ruprecht, 1996), and Mark U. Edwards Jr., op. cit.
+
+[25](#sdfootnote25anc) Edwards, 16.
+
+[26](#sdfootnote26anc) Miriam U. Chrisman, _Conflicting Visions of Reform: German Lay Propaganda Pamphlets, 1519-1530_, (New Jersey: Humanities Press, 1996), 12.
+
+[27](#sdfootnote27anc) Edwards, 164.
+
+[28](#sdfootnote28anc) Edwards, 172.
+
+[29](#sdfootnote29anc) Bodo Brinkmann, &quot;The Smile of the Madonna: Lucas Cranach, a Serial Painter,&quot; in Brinkmann, ed. _Cranach_ (London: Royal Academy of Art, 2007), 18.
+
+[30](#sdfootnote30anc) Brinkmann, 20.
+
+[31](#sdfootnote31anc) Brinkmann, 19.
+
+[32](#sdfootnote32anc) Peter Moser, _Lucas Cranach: His Life, his World and his Art_, trans. Kenneth Wynne (Bamberg: Babenberg Verlag, 2005), 83.
+
+[33](#sdfootnote33anc) Moser, 97.
+
+[34](#sdfootnote34anc) Andreas Tacke argues that since Cranach continued to accept commissions from Catholic patrons, to some extent he retained his Catholic sensibilities throughout his life. In my view, Cranach&#39;s work on behalf of the Lutheran cause, as well as the stark change in subject matter of his panel paintings, reveals an artist convinced and committed to the evangelical form of religion. Tacke, _Der katholische Cranach:_ _zu zwei Grossaufträgen von Lucas Cranach d.Ä., Simon Franck und der Cranach-Werkstatt (1520-1540)_, (Mainz: P. von Zabern, 1992).
+
+[35](#sdfootnote35anc) Edwards, 163.
+
+[36](#sdfootnote36anc) &quot;As soon as the coin in the coffer rings, the soul from purgatory springs.&quot; Gerald Fleming, &quot;On the Origin of the Passional Christi und Antichristi and Lucas Cranach the Elder&#39;s Contribution to Reformation Polemics in the Iconography of the Passional,&quot; _Gutenberg Jahrbuch_ 1973, 367.
+
+[37](#sdfootnote37anc) Martin Brecht, _Martin Luther: His Road to Reformation 1483-1521_, trans. James L. Schaaf (Philadelphia: Fortress Press, 1985), 190-192.
+
+[38](#sdfootnote38anc) Cf. Erwin Iserloh, _The Theses Were Not Posted: Luther Between Reform and Reformation_, trans. Jared Wicks(Boston: Beacon Press, 1968). More recently, a handwritten note by Luther&#39;s secretary Georg Rörer, found in the university library at Jena, indicates that the 95 Theses may indeed have been posted on the door of the Schlosskirche. See Martin Treu, &quot;Der Thesenanchlag fand wirklich statt: ein neuer Beleg aus der Universitätsbibliothek Jena,&quot; _Luther_ v. 78 no. 3 (2007), 140-144; Volker Leppin, &quot;Geburtswehen und Geburt einer Legende: zu Rörers Notiz von Thesenanschlag,&quot; _Luther_ v. 78 no. 3 (2007), 145-150; and Joachim Ott and Martin Treu, eds., _Luthers Thesenanschlag: Faktum oder Fiktion_, Schirftender Stiftung Luther-Gedenkstätten in Sachsen-Anhalt 9 (Leipzig: Evangelische Verlagsanstalt, 2008).
+
+[39](#sdfootnote39anc) Brecht, 199.
+
+[40](#sdfootnote40anc) Scott H. Hendrix, _Luther and the Papacy: Stages in a Reformation Conflict_ (Philadelphia: Fortress Press, 1981), 32.
+
+[41](#sdfootnote41anc) Edwards, 38-39.
+
+[42](#sdfootnote42anc) Peter D. S. Krey, _Sword of the Spirit, Sword of Iron: Word of God, Scripture, Gospel and_
+
+_Law in Luther&#39;s Most-Often Published Pamphlets (1520-1525),_ PhD dissertation,
+
+Graduate Theological Union, 2001, 113.
+
+[43](#sdfootnote43anc) Scribner, 149.
+
+[44](#sdfootnote44anc) Luther, &quot;Letter to Philip Melanchthon: Wartburg, May 26, 1521,&quot; _D. Martin Luthers Werke, Briefwechsel_, vol 2 (Weimar: H. Bohlau, 1933), 347.
+
+[45](#sdfootnote45anc) Gustav Kawerau, ed., _Passional Christi und Antichristi_ (Berlin: G. Grote, 1885).
+
+[46](#sdfootnote46anc) Philipp Melanchthon, _Loci communes_ (1521), in Hans Engelland, ed. _Melanchthons Werke in Auswahl_ Band 2 (Gütersloh: Bertelsmann, 1978), 23-25. Quoted in Estes, 66.
+
+[47](#sdfootnote47anc) James M. Estes, _Peace, Order and the Glory of God: Secular Authority and the Church in the Thought of Luther and Melanchthon 1518-1559_ (Leiden: Brill, 2005), 95.
+
+[48](#sdfootnote48anc) Kees Meerhoff, &quot;The Significance of Philip Melanchthon&#39;s Rhetoric in the Renaissance,&quot; in Peter Mack, ed., _Renaissance Rhetoric_ (London: St. Martin&#39;s Press, 1994), 51.
+
+[49](#sdfootnote49anc) Meerhoff, 50.
+
+[50](#sdfootnote50anc) Nicole Kuropka, _Philipp Melanchthon: Wissenschaft und Gesellschaft: Ein Gelehrter im Dienst der Kirche (1526-1532)_ (Tübingen: Mohr Siebeck, 2002), 15-16.
+
+[51](#sdfootnote51anc) Luther, &quot;Letter to Philip Melanchthon: Wartburg, May 26, 1521,&quot; _D. Martin Luthers Werke, Briefwechsel_, vol 2 (Weimar: H. Bohlau, 1933), 347.
+
+[52](#sdfootnote52anc) Joseph Leo Koerner, _The Reformation of the Image_ (Chicago: University of Chicago Press, 2004), 113.
+
+21 
+  
+  
 [^1]: Berndt Hamm, “What Was the Reformation Doctrine of Justification?” in C. Scott Dixon, ed., The German Reformation: The Essential Readings (Oxford: Blackwell Publishers, 1999), 82. 
 </p>
 </div>
