@@ -4,8 +4,7 @@ title: Introduction by Bobbi Dykema
 nav_order: 2
 excerpt: Bobbi Dykema's Introduction to the Passional Christi und Antichristi.
 ---
-<div class="container text-left"> 
-<p>
+
 # Introduction
 
 **Bobbi Dykema, PhD**
@@ -296,6 +295,5 @@ Graduate Theological Union, 2001, 113.
 
 [52](#sdfootnote52anc) Joseph Leo Koerner, _The Reformation of the Image_ (Chicago: University of Chicago Press, 2004), 113.
 
-21
-</p>
-</div>
+
+
